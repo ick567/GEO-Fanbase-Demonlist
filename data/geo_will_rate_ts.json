@@ -8,5 +8,11 @@
     "percentToQualify": 64,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "(GEO) kvadratnayacoca",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
