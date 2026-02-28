@@ -1,0 +1,18 @@
+{
+    "id": 114,
+    "name": "idklevel",
+    "author": "(GEO) kvadratnayacoca",
+    "creators": ["(GEO) kvadratnayacoca"],
+    "verifier": "(GEO) kvadratnayacoca",
+    "verification": "none",
+    "percentToQualify": 79,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "ick567",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
