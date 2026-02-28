@@ -13,6 +13,11 @@
             "link": "none",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "Unofficial2048",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
     ]
 }
