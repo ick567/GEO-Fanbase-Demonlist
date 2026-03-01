@@ -1,0 +1,17 @@
+{
+    "id": 128,
+    "name": "dntfocus",
+    "author": "(GEO) kvadratnayacoca",
+    "creators": ["(GEO) kvadratnayacoca"],
+    "verifier": "(GEO) kvadratnayacoca",
+    "verification": "none",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ick567",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
